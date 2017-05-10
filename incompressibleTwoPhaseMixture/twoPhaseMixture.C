@@ -367,7 +367,7 @@ tmp<surfaceScalarField> twoPhaseMixture::rhoMixF(const volScalarField& alpha1New
     );
 }
 
-//-return angle term for alpha1 to density conversion
+//-Return angle term for alpha1 to density conversion
 tmp<volScalarField> twoPhaseMixture::alpha1Angle(const volScalarField& alpha1New_) const
 {
     return tmp<volScalarField> 

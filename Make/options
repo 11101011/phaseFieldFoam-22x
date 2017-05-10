@@ -14,7 +14,7 @@ EXE_INC = \
 EXE_LIBS = \
     -lfiniteVolume \
     -linterfaceProperties \
-    -ltwoPhaseInterfaceProperties \
+    -ltwoPhaseProperties \
     -lincompressibleTransportModels \
     -lincompressibleTurbulenceModel \
     -lincompressibleRASModels \
