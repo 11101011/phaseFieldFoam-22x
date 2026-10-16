@@ -11,7 +11,7 @@ Description
    calculation of the phase field for two immiscible fluids by
    diffusive and advective transport mechanisms.
 
-Written by:
+Original code by:
 -----------
 
    Donaldson, Adam: Dalhousie University Halifax, Canada
